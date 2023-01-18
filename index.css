@@ -29,3 +29,10 @@
         color: blueviolet;
         text-decoration: overline;
     }
+    button{
+        padding: 5% 10%;
+        border-radius: 15px;
+        background-color: aqua;
+        display: block;
+        margin:auto;
+    }
