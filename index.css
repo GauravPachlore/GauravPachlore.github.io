@@ -1,0 +1,31 @@
+#Navbar{
+    display: flex;
+    background-color: rgb(250, 184, 184);
+    padding:2%;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    #image{
+        display:block;
+        margin: auto;
+        box-shadow: darkgreen;
+    }
+    #contact{
+        border: 1px solid black;
+        text-align: center;
+        padding: 2%;
+        margin: 1%;
+        justify-content: center;
+        align-items: center;
+    }
+    span{
+        font-size: 55px;
+        color: blueviolet;
+        text-decoration: overline;
+    }
